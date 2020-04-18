@@ -1,1 +1,1 @@
-# php
+Repositório para fins estudantis.
